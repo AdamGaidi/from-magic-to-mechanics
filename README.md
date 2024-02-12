@@ -22,6 +22,7 @@ The order I would learn things would probably be something like
 - [(BOOK) Programming Massively Parallel Processors](https://shop.elsevier.com/books/programming-massively-parallel-processors/hwu/978-0-323-91231-0)
 - [(ONLINE ARTICLE) GPU Programming: When, Why and how?](https://enccs.github.io/gpu-programming/)
 - [(UNIVERSITY COURSE) Introduction to Computer Graphics](https://www.youtube.com/watch?v=vLSphLtKQ0o)
+- [(ONLINE ARTICLE) Demystifying GPU Compute Architectures](https://thechipletter.substack.com/p/demystifying-gpu-compute-architectures)
   
 ## WebGPU
 - [(TUTORIAL) Your first WebGPU app](https://codelabs.developers.google.com/your-first-webgpu-app#0)
